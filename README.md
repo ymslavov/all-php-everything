@@ -10,5 +10,8 @@ A collated list of PHP resources that every self-respecting web dev should know 
 ## Code design
 [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) - A thorough list of common design patterns, outlining use cases and showing code snippets to illustrate
 
+## Front-end
+[UIKit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
+
 ## Other
-[Google Open-source Projects](https://opensource.google.com/projects/explore/featured) - All of Google's open-source initiatives in one place. It's not strictly PHP-related, but it's a huge treasure trove of outstanding quality code.
+[Google Open-source Projects](https://opensource.google.com/projects/explore/featured) - All of Google's open-source initiatives in one place. It's not strictly PHP-related, but it's a huge treasure trove of outstanding quality code
