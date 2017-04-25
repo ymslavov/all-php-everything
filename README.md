@@ -9,10 +9,12 @@ A collated list of PHP resources that every self-respecting web dev should know 
 
 ## Code design
 [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) - A thorough list of common design patterns, outlining use cases and showing code snippets to illustrate
+
 [A list of open-source Laravel apps](https://github.com/unicodeveloper/awesome-opensource-apps#laravel) - A great way to learn new patterns and architectures is to see how other people do it. Check out this list of open-source projects written in Laravel and don't forget to fork/contribute!
 
 ## Front-end
 [UIKit](https://getuikit.com/) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
+
 [Interneting is Hard HTML&CSS Lessons for Backend Devs](https://internetingishard.com/html-and-css/) - A set of beautifully designed and full of examples lessons to make a backender's introduction to the front(dark) side as smooth as possible
 
 ## Other
